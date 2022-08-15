@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "content": "Write some music",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "content": "Edit the video",
+      "completed": false
+    },
+    {
+      "content": "go to the party",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
